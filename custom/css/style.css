@@ -1,0 +1,13 @@
+.map{
+    width: 100%;
+    height: 800px;
+}
+
+.draw-app{
+    top: 65px;
+    left: .5em;
+}
+
+.ol-touch .draw-app{
+    top: 80px;
+}
